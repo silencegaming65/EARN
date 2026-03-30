@@ -138,7 +138,7 @@ const apps = [
     name: "91 Club",
     description: "Highly popular among students. Offers the highest referral commissions and daily rewards. Great for building a network.",
     bonus: "₹200 Instant Bonus",
-    referralLink: "https://www.91appq.com/#/register?invitationCode=517864600730",
+    referralLink: "https://www.rajkot91.com/#/register?invitationCode=517864600730",
     isHot: true,
     pros: ["Best referral program", "Daily login rewards", "Simple UI"],
     cons: ["Withdrawal limits", "Occasional server lag"],
