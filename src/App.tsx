@@ -186,7 +186,7 @@ const apps = [
     name: "OK Win",
     description: "New and fast-growing color trading platform with high winning accuracy and instant withdrawals. Very user-friendly.",
     bonus: "₹100 Signup Bonus",
-    referralLink: "https://okwinslots2.com/#/register?invitationCode=348713236120",
+    referralLink: "https://okwinslots1.com/#/register?invitationCode=348713236120",
     pros: ["Modern interface", "Low entry barrier", "Fast processing"],
     cons: ["New platform risk", "Fewer game options"],
     image: "https://asset7.ckassets.com/blog/wp-content/uploads/sites/6/2025/02/OK-Win-Color.jpg"
