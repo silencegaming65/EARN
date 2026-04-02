@@ -411,15 +411,15 @@ export default function App() {
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-12 mb-20">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 bg-white p-6 rounded-3xl shadow-xl shadow-gray-200/50 border border-gray-100">
           <div className="text-center p-4">
-            <div className="text-2xl font-black text-gray-900">1M+</div>
+            <div className="text-2xl font-black text-gray-900">10L+</div>
             <div className="text-xs text-gray-500 uppercase font-bold tracking-widest">Active Users</div>
           </div>
           <div className="text-center p-4 border-l border-gray-100">
             <div className="text-2xl font-black text-gray-900">₹1L+</div>
-            <div className="text-xs text-gray-500 uppercase font-bold tracking-widest">Active Users</div>
+            <div className="text-xs text-gray-500 uppercase font-bold tracking-widest">TOTAL EARNED</div>
           </div>
           <div className="text-center p-4 border-l border-gray-100">
-            <div className="text-2xl font-black text-gray-900">100%</div>
+            <div className="text-2xl font-black text-gray-900">99%</div>
             <div className="text-xs text-gray-500 uppercase font-bold tracking-widest">Verified Apps</div>
           </div>
           <div className="text-center p-4 border-l border-gray-100">
