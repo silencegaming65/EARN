@@ -415,8 +415,8 @@ export default function App() {
             <div className="text-xs text-gray-500 uppercase font-bold tracking-widest">Active Users</div>
           </div>
           <div className="text-center p-4 border-l border-gray-100">
-            <div className="text-2xl font-black text-gray-900">₹50Cr+</div>
-            <div className="text-xs text-gray-500 uppercase font-bold tracking-widest">Total Earned</div>
+            <div className="text-2xl font-black text-gray-900">₹1L+</div>
+            <div className="text-xs text-gray-500 uppercase font-bold tracking-widest">Active Users</div>
           </div>
           <div className="text-center p-4 border-l border-gray-100">
             <div className="text-2xl font-black text-gray-900">100%</div>
